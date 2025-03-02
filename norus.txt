@@ -1,2 +1,2 @@
-example.com
+https://www.example.com/
 https://store.steampowered.com/app/2527500/
