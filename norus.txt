@@ -1,4 +1,4 @@
 https://www.example.com/
 https://store.steampowered.com/app/2527500/
 https://www.criticalreflex.com/
-https://linkedin.com/company/criticalreflex?trk=ppro_cprof
+https://linkedin.com/company/criticalreflex
